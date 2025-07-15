@@ -1,0 +1,5 @@
+Package: circumference
+Type: Package
+Title: Calculates circumference of a given radius
+Version: 0.2.0
+RoxygenNote: 7.3.2
